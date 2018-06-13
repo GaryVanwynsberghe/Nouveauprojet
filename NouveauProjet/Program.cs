@@ -11,6 +11,7 @@ namespace NouveauProjet
         static void Main(string[] args)
         {
             Console.WriteLine("I'm Toto");
+            Console.WriteLine("I'm TOTO !!!");
             Console.ReadKey();
         }
     }
